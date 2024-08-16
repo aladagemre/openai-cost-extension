@@ -8,7 +8,7 @@
     "activeTab"
   ],
   "host_permissions": [
-    "<all_urls>"
+    "https://platform.openai.com/threads/*"
   ],
   "background": {
     "service_worker": "background.js"

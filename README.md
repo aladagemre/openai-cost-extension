@@ -4,6 +4,8 @@
 
 The OpenAI Cost Estimator is a Chrome extension that allows users to quickly estimate the cost of OpenAI API usage based on the number of input and output tokens. It adds a context menu item that calculates and displays the estimated cost for selected text containing token information.
 
+![OpenAI Cost Estimator Screenshot](screenshot.png)
+
 ## Features
 
 - Right-click context menu integration
@@ -35,6 +37,7 @@ The current cost per token is set to $0.00002. To change this, modify the `costP
 - `background.js`: Main script for the extension's functionality
 - `popup.html`: (Optional) Popup UI for the extension
 - `images/`: Directory containing extension icons
+- `screenshot.png`: Screenshot demonstrating the extension in action
 
 ## Permissions
 
@@ -53,4 +56,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-This extension provides an estimate based on the current OpenAI pricing based on GPT-4o. Always refer to the official OpenAI pricing page for the most up-to-date and accurate pricing information.
+This extension provides an estimate based on the current OpenAI pricing. Always refer to the official OpenAI pricing page for the most up-to-date and accurate pricing information.

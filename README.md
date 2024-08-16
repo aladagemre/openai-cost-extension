@@ -4,7 +4,7 @@
 
 The OpenAI Cost Estimator is a Chrome extension that allows users to quickly estimate the cost of OpenAI API usage based on the number of input and output tokens. It adds a context menu item that calculates and displays the estimated cost for selected text containing token information.
 
-![OpenAI Cost Estimator Screenshot](screenshot.png)
+![OpenAI Cost Estimator Screenshot](images/screenshot.png)
 
 ## Features
 

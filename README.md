@@ -37,7 +37,7 @@ The current cost per token is set to $0.00002. To change this, modify the `costP
 - `background.js`: Main script for the extension's functionality
 - `popup.html`: (Optional) Popup UI for the extension
 - `images/`: Directory containing extension icons
-- `screenshot.png`: Screenshot demonstrating the extension in action
+    - `screenshot.png`: Screenshot demonstrating the extension in action
 
 ## Permissions
 

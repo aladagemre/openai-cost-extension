@@ -29,7 +29,7 @@ The OpenAI Cost Estimator is a Chrome extension that allows users to quickly est
 
 ## Configuration
 
-The current cost per token is set to $0.00002. To change this, modify the `costPerToken` variable in the `background.js` file.
+The current cost per token is calculated for GPT-4o model.
 
 ## Files
 
